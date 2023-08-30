@@ -1,8 +1,6 @@
 ### Hi there 👋 
 I'm a student from 42 Lyon  💻
 
-[![gusimone's 42 stats](https://badge42.vercel.app/api/v2/clkzq01qz000608mdlzb7pagh/stats?cursusId=21&coalitionId=302)](https://github.com/JaeSeoKim/badge42)
-
 <!--
 **GuillaumeSimonet17/GuillaumeSimonet17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Languages & Tools 
+Languages & Tools :
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
