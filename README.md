@@ -1,5 +1,12 @@
-### Hi there 👋 
-I'm a student from 42 Lyon and developer python in Krafter (Odoo integration) 💻
+### Hi there 👋
+
+- 🌱 student 42 Lyon, France
+- 💻 developer python in Krafter (Odoo integration) 
+
+
+Contact me on :
+
+[![Logo Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-simonet-3525951b5/)
 
 <!--
 **GuillaumeSimonet17/GuillaumeSimonet17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +42,3 @@ Languages & Tools :
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-Connect with me:
-
-[![Logo Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-simonet-3525951b5/)
