@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-🌱 I'm a student in 42 Lyon, France
+🌱 I'm a student in <b>42</b> Lyon to learn <b>data science and AI</b>
 
-💻 and a developer python in Krafter (ERP integration) 
+💻 and a <b>developer python backend</b> in Krafter (ERP integration) 
 
 
 ####  Contact me on :
 
 [![Logo Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-simonet-3525951b5/)
 -
-
 
 <!--
 ### Languages, Frameworks & Tools :
