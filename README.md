@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm a student in <b>42</b> Lyon to learn <b>data science and AI</b>
-
-💻 and a <b>developer python backend</b> in Krafter (ERP integration) 
+🌱 I'm a <b>Python backend developer</b> at Krafter, specializing in ERP integration. I studied at Ecole 42 and have a Bac+3 in <b>web and application development</b>.
 
 
 ####  Contact me on :
